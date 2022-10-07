@@ -1,7 +1,7 @@
 # Site settings
 title:          JV Blog
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://javie0925.github.io"
 
 # Google Analytics
