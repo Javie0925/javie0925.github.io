@@ -9,7 +9,7 @@ Hello, my name is Javie. I always want to build a blog website of my own. I trie
 Recently, when I was surfing in the github, I found someone introduced how to make a blog site with git-page and Jekyll. I found it really cool and decided to have a try.
 
 Jekyll is easy. It was written with Ruby and base on Liquid template language. You can totally figure it out if you look through this [blog](https://juejin.cn/post/6844903623567081486). You can also learn from the [Jekyll official website](https://jekyllrb.com/docs) and the [Liquid](https://shopify.github.io/liquid/) doc site.
-There are many Jekyll themes in the Internet, you can easily get one if you google it. I got this really cool theme from (jekyllthemes)[http://jekyllthemes.org/]. I will build my own blog site base on this cool theme. 
-I will try to write something down and record something interesting.
+There are many Jekyll themes in the Internet, you can easily get one if you google it. I got this really cool theme from [jekyllthemes][http://jekyllthemes.org/]. I will build my own blog site base on this cool theme. 
+I will try to write something down and record something interesting here.
 
 Thanks for reading!
