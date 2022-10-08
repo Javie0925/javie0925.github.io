@@ -12,4 +12,7 @@ Jekyll is easy. It was written with Ruby and base on Liquid template language. Y
 There are many Jekyll themes in the Internet, you can easily get one if you google it. I got this really cool theme from [jekyllthemes][http://jekyllthemes.org/]. I will build my own blog site base on this cool theme. 
 I will try to write something down and record something interesting here.
 
+## Contribute
+Feel free to create an issue or make a pull request on [GitHub](https://github.com/Javie0925/javie0925.github.io).
+
 Thanks for reading!
